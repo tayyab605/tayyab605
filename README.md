@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Tech.
 - 📫 How to reach me: tayyabmehmood1950@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns:
 - ⚡ Fun fact: 
 -->
