@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-<h2>🔭 I’m currently working on Software Engineer.</h2>
-<h2>🌱 I’m currently learning Automation/Integromat.</h2>
-<h2>👯 I’m looking to collaborate on Open Source</h2>
-<h2>💬 Ask me about Tech.</h2>
-<h2> 📫 How to reach me: tayyabmehmood1950@gmail.com</h2>
+🔭 I’m currently working on Software Engineer.
+🌱 I’m currently learning Automation/Integromat.
+👯 I’m looking to collaborate on Open Source.
+💬 Ask me about Tech.
+📫 How to reach me: tayyabmehmood1950@gmail.com
